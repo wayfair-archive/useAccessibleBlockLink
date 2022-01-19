@@ -8,7 +8,7 @@ When creating block links where there are semantic tags used inside an interacti
 
 _Example_
 
-```
+```html
 <a href="..." title="...">
   <h2>...</h2>
   <ul>
