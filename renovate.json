@@ -13,7 +13,8 @@
     "before 3am every weekday"
   ],
   "enabledManagers": [
-    "github-actions"
+    "github-actions",
+    "npm"
   ],
   "packageRules": [
     {
